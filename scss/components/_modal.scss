@@ -5,7 +5,7 @@
   padding: 40px;
   transform: translate(-50%, -50%);
   width: 528px;
-  min-height: 581px;
+  height: 581px;
   background-color: var(--regular-white);
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
     0px 2px 1px rgba(0, 0, 0, 0.2);
@@ -39,7 +39,6 @@
 .close-icon {
   transition: fill 250ms var(--timing-function);
 }
-
 
 .modal-title {
   font-weight: 700;
